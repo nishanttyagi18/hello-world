@@ -1,0 +1,2 @@
+This is last file because i wanted to check terminal of VS Code.
+Let's see how it goes.
